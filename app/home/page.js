@@ -1,5 +1,8 @@
 export default function Page() {
     return(
-        <p>T'as réussi</p>
+        <main>
+            <p>Tu as réussi</p>
+        </main>
+    
     )
 }
